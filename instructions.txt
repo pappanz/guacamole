@@ -1,8 +1,6 @@
 - chop avocadoes
 - squeeze lime
-- chop orange
 - add chopped onions
 - add salt
 - mix well
 - enjoy!
-- newline
